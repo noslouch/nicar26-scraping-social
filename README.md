@@ -84,6 +84,14 @@ Export TSV > Google Sheets > Write the story
 - Hammer their server
 - Bypass authentication for private data
 
+## Continue learning
+
+- [Chrome DevTools Network panel docs](https://developer.chrome.com/docs/devtools/network) — the official reference for everything we used in Part 1
+- [Python `requests` library](https://docs.python-requests.org/) — the HTTP library we used to replay API calls
+- [pandas documentation](https://pandas.pydata.org/docs/) — for cleaning and analyzing the data once you have it
+- [uv](https://docs.astral.sh/uv/) — the Python package manager used in this workshop
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — for downloading video/media from many platforms
+
 ## Contact
 
 Jack Gillum and Brian Whitton, The Wall Street Journal
